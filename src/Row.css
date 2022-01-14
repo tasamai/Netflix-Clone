@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 .row {
   margin-left: 20px;
 }
 
-=======
->>>>>>> b7f152073c37705d2e0fd8c96c4e10e9e72b8ef5
 .row_posters {
   display: flex;
   overflow-y: hidden;
@@ -26,7 +23,6 @@
 
 .poster_row:hover {
   transform: scale(1.08);
-<<<<<<< HEAD
 }
 
 .poster_row_large {
@@ -35,6 +31,4 @@
 
 .poster_row_large:hover {
   transform: scale(1.09);
-=======
->>>>>>> b7f152073c37705d2e0fd8c96c4e10e9e72b8ef5
 }
