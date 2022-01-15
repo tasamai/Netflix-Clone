@@ -5,7 +5,7 @@
 1. [Prerequisites](#1-prerequisites)
 2. [Clone project to local machine](#2-clone-repository)
 3. [Running Project](#3-Running-Project)
-4. [Languages & Technologies](#4-languages-&-used)
+4. [Languages & Technologies](#4-languages-&-technologies)
 5. [Learning Outcomes](#5-learning-outcomes)
 
 ## 1. Prerequisites
@@ -50,19 +50,19 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 This project is deployed on firebase. To do so:
-# 1. Login/Sign-up to firebase
-# 2. Go to the firebase console
-# 3. Create a new project
-# 4. Check if firebase tools is installed
-# 5. If not installed, use the command below (use sudo if necessary):
+#### 1. Login/Sign-up to firebase
+#### 2. Go to the firebase console
+#### 3. Create a new project
+#### 4. Check if firebase tools is installed
+#### 5. If not installed, use the command below (use sudo if necessary):
       ### `npm install -g firebase-tools`
-# 6. Login to firebase in your command line:
+#### 6. Login to firebase in your command line:
       ### `firebase login`
-# 7. Initialise Firebse:
+#### 7. Initialise Firebse:
       ### `firebase init`
-# 8. Build your project:
+#### 8. Build your project:
       ### `npm run build`
-# 9. Finally, deploy your project:
+#### 9. Finally, deploy your project:
        ### `firebase deploy`
 
 ### `npm run eject`
@@ -93,4 +93,20 @@ To learn about analyzing the bundle size, check this out: [https://facebook.gith
 
 Checkout the docs for advanced configurations: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+## 4. Languages & Technologies
+      
+      1. Javascript
+      2. HTML/CSS
+      3. CSS
+      4. React
+      5. Axios
+      6. Firebase
+      7. Git
+      8. Github workflow
+      9. Flexbox
 
+## 5. Learning Outcomes
+
+      In building the project, you will learn react components, states, props, api integration, working with objects and arrays, git command line tools &               styling.
+      
+Have Fun!🎁
