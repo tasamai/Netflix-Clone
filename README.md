@@ -1,5 +1,7 @@
 # Netflix Clone built with React
 
+![Project Preview](https://github.com/tasamai/Netflix-Clone/blob/master/public/Netflix-clone.png?raw=true)
+
 ## Table of content
 
 1. [Prerequisites](#1-prerequisites)
