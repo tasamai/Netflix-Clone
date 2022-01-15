@@ -107,6 +107,7 @@ Checkout the docs for advanced configurations: [https://facebook.github.io/creat
 
 ## 5. Learning Outcomes
 
-      In building the project, you will learn react components, states, props, api integration, working with objects and arrays, git command line tools &               styling.
+      In building the project, you will learn react components, states, props, api integration,
+      working with objects and arrays, git command line tools & styling.
       
 Have Fun!🎁
