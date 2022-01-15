@@ -9,6 +9,7 @@
   z-index: 1;
   transition-timing-function: ease-in;
   transition: all 0.5s;
+  display: inline;
 }
 
 .nav_black {
@@ -28,4 +29,20 @@
   right: 20px;
   width: 30px;
   object-fit: contain;
+}
+
+.ul_list {
+  display: inline;
+  margin-left: 80px;
+}
+
+.list_item {
+  display: inline;
+  font-weight: 700;
+  padding: 12px;
+  color: black;
+}
+
+.list_item_scroll {
+  color: white;
 }

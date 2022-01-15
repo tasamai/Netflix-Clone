@@ -25,11 +25,11 @@ function Nav() {
              alt="Netflix Logo"
              />    
 
-             <ul>
-                <li>Home</li>
-                <li>Series</li>
-                <li>Film</li>
-                <li>New & Popular</li>
+             <ul className="ul_list">
+                <li className={`list_item ${show && "list_item_scroll"}`}>Home</li>
+                <li className={`list_item ${show && "list_item_scroll"}`}>Series</li>
+                <li className={`list_item ${show && "list_item_scroll"}`}>Film</li>
+                <li className={`list_item ${show && "list_item_scroll"}`}>New & Popular</li>
             </ul>
             
             <img
