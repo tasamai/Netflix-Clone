@@ -1,14 +1,34 @@
-# Getting Started with Create React App
+# Netflix Clone built with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of content
 
-## Available Scripts
+1. [Prerequisites](#1-prerequisites)
+2. [Clone project to local machine](#2-clone-repository)
+3. [Running Project](#3-Running-Project)
+4. [Languages & Technologies](#4-languages-&-used)
+5. [Learning Outcomes](#5-learning-outcomes)
 
-In the project directory, you can run:
+## 1. Prerequisites
+
+1. Make sure you have you have node installed
+```
+npm i node
+```
+
+## 2. Clone Repository
+
+Clone the repository to local machine [Clone Repository].
+```
+git clone https://github.com/tasamai/Netflix-Clone.git
+```
+
+## 3. Running Project
+
+To run the project on your local machine run the following code in your terminal
 
 ### `npm start`
 
-Runs the app in the development mode.\
+The app will run in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -29,6 +49,22 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+This project is deployed on firebase. To do so:
+# 1. Login/Sign-up to firebase
+# 2. Go to the firebase console
+# 3. Create a new project
+# 4. Check if firebase tools is installed
+# 5. If not installed, use the command below (use sudo if necessary):
+      ### `npm install -g firebase-tools`
+# 6. Login to firebase in your command line:
+      ### `firebase login`
+# 7. Initialise Firebse:
+      ### `firebase init`
+# 8. Build your project:
+      ### `npm run build`
+# 9. Finally, deploy your project:
+       ### `firebase deploy`
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -47,24 +83,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Check this out for code splitting: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To learn about analyzing the bundle size, check this out: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Checkout the docs for advanced configurations: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
